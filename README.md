@@ -2,7 +2,6 @@
 <p>The app follow the tutorial from a course from Udemy.<br>
 https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/
 </p>
-<br>
 Tech used:
 <ul>
 <li>Node.JS 16.20.2</li>
